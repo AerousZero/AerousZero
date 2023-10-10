@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Srijan Shakya <br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Backend<br>- ⚡ In my free time I Sleep</p>
+<p align="left">I'm Srijan Shakya <br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning FullStack Development<br>- ⚡ In my free time I Sleep</p>
 
 ###
 
@@ -78,8 +78,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
 </div>
 
 ###
